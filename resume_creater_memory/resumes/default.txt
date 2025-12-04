@@ -1,0 +1,892 @@
+Please provide me with the details of your resume, including your work experience, skills, education, projects, and any other relevant information you'd like included. I need this information to create the resume for you. If you want to include hobbies, please provide them.
+
+
+----------------------------------------
+
+# Summary
+
+Development, deployment, and project management professional with 12+ years of experience, including 6+ years in machine learning and Generative AI engineering. Expertise in machine learning algorithms, Deep learning, and GenAI. Strong analytical, modeling, and programming skills. Knowledge of Project Management Methodologies.
+
+# Experience
+
+**Sr. Machine Learning Engineer and Associate Project Manager**
+Global Planners Studio
+2017 — Present
+Pune, MH
+
+*   Defined and delivered a product roadmap integrating Generative AI into project management operations to summarize past projects and standardize documents.
+*   Transitioned from Waterfall to Agile, implementing 2-week sprints, backlog prioritizing, and customer feedback loops; reduced project compilation time from 2 weeks to 4 days and boosted satisfaction from 60% to 85%.
+*   Created a dashboard for the Model-training matrix, evaluation matrix, and prediction using Weight & Biases to ease the work for tracking model performance.
+    *   Technologies: Python, Pandas, NumPy, scikit-learn
+    *   Algorithms: Decision Tree and classification, hyper-parameter tuning
+    *   Tracking Dashboard: Weight & Biases and MLflow
+*   Visualized Data using Dashboards and Storytelling to Directors using Tableau.
+    *   Technologies: Embedding, PCA technique, and classification to visualize large amounts of customer survey data
+    *   Tableau for Dashboarding and Storyboarding
+*   Developed an end-to-end ML data pipeline using Pandas to preprocess and transform millions of records for feature engineering and drift detection; stored intermediate datasets and model artifacts in AWS S3; deployed a lightweight inference API using AWS Lambda; automated drift detection and retraining workflows with Apache Airflow; and tracked model metrics and versions using MLflow. Containerized the entire pipeline using Docker and managed data and model versioning with DVC.
+    *   Technologies: Pandas, AWS S3, AWS Lambda, Docker, MLflow, Apache Airflow, DVC, MLOps
+*   Finetuned 70M to 7B parameter models using Lamini on sales pitch data, increasing customer satisfaction by approximately 40% and positive feedback/reviews by approximately 50%.
+    *   Technologies: Langchain, Prompt engineering, scikit-learn
+*   Designed and Developed RAG workflows to retrieve data to finetune models, and to retrieve clauses from regulation and contract, saving time around 40%.
+    *   Technologies: Langchain, Prompt engineering, RAG workflows, FAISS
+*   Designed and Led scalable LangGraph agentic RAG(multi-retriever + tool routing), construction project.
+    *   Wiki Queries
+    *   Tool Queries
+    *   Web search Queries
+*   Designed and Led multiagent orchestration
+    *   Policy retriever agent
+    *   Regulatory agent
+*   Developed and System-designed a recommendation bot for the sales team, increasing accuracy by 40%.
+    *   Technologies: Flask, HTML, CSS, Python (Pandas, NumPy), OpenAI (ChatGPT 3.5 Turbo)
+
+# Skills
+
+*   Python
+*   Pandas
+*   Numpy
+*   Scikit-learn
+*   Langchain
+*   Prompt Engineering
+*   RAG workflows
+*   FAISS
+*   Flask
+*   HTML
+*   CSS
+*   Tableau
+*   AWS S3
+*   AWS Lambda
+*   Docker
+*   MLflow
+*   Apache Airflow
+*   DVC
+*   MLOps
+
+----------------------------------------
+
+```
+EDUCATION
+
+BE Computer, University of Pune, Pune
+August 2008 — August 2012
+
+PGD-IT, Symbiosis International University, PUNE
+October 2014 — October 2015
+Distance Learning with Mangement Information System
+
+Executive-MBA, Indian Institute of Management Kozhikode, Kozhikode
+November 2017 — December 2019
+Graduated with Operations Management, IT management(Cloud, ERP and Business Analytics) and Social Media Analytics and Digital Marketing
+
+HSC, Maharashtra State Board, Pune
+June 2005 — May 2007
+
+SSC, Maharashtra State Board, Pune
+March 2005
+
+COURSES
+
+SAP Certified Development Associates - ABAP with SAP Net Weaver 7.40, SAP Global Certification
+Business Analytics, University of Pennsylvania (Coursera)
+DeepLearning.AI Tensor Flow Developer, DeepLearning.AI (Coursera)
+Google Project Management, Google (Coursera)
+Machine Learning, Stanford University (DeepLearning.AI, Coursera)
+Computational Social Science, University of California, Davis (Coursera)
+Advanced Certificate in Generative AI (upGrad)
+
+EXTRA-CURRICULAR ACTIVITIES
+
+Volunteer at Seva Sahayog, Pune
+January 2018 — Present
+Volunteer for NGO, which is working for underprivileged people but lacks adequate resources in terms of technology, finance, and manpower to take their work to the next level.
+
+Classes, Pune
+June 2020 — Present
+Taking Classes on ML and AI, Coding, TOC.
+```
+
+----------------------------------------
+
+Please provide the resume content that you would like me to format and print. I need the information from you to create the resume.
+
+
+----------------------------------------
+
+```text
+SUMMARY
+
+Development, deployment, and project management professional with 12+ years of experience, including 6+ years in machine learning and Generative AI engineering. Expertise in machine learning algorithms, Deep learning, and GenAI. Strong analytical, modeling, and programming skills. Knowledge of Project Management Methodologies.
+
+EXPERIENCE
+
+Sr. Machine Learning Engineer and Associate Project Manager
+Global Planners Studio
+2017 — Present
+Pune, MH
+
+* Defined and delivered a product roadmap integrating Generative AI into project management operations to summarize past projects and standardize documents.
+* Transitioned from Waterfall to Agile, implementing 2-week sprints, backlog prioritizing, and customer feedback loops; reduced project compilation time from 2 weeks to 4 days and boosted satisfaction from 60% to 85%.
+* Created a dashboard for the Model-training matrix, evaluation matrix, and prediction using Weight & Biases to ease the work for tracking model performance.
+    * Technologies: Python, Pandas, NumPy, scikit-learn
+    * Algorithms: Decision Tree and classification, hyper-parameter tuning
+    * Tracking Dashboard: Weight & Biases and MLflow
+* Visualized Data using Dashboards and Storytelling to Directors using Tableau.
+    * Technologies: Embedding, PCA technique, and classification to visualize large amounts of customer survey data
+    * Tableau for Dashboarding and Storyboarding
+* Developed an end-to-end ML data pipeline using Pandas to preprocess and transform millions of records for feature engineering and drift detection; stored intermediate datasets and model artifacts in AWS S3; deployed a lightweight inference API using AWS Lambda; automated drift detection and retraining workflows with Apache Airflow; and tracked model metrics and versions using MLflow. Containerized the entire pipeline using Docker and managed data and model versioning with DVC.
+    * Technologies: Pandas, AWS S3, AWS Lambda, Docker, MLflow, Apache Airflow, DVC, MLOps
+* Finetuned 70M to 7B parameter models using Lamini on sales pitch data, increasing customer satisfaction by approximately 40% and positive feedback/reviews by approximately 50%.
+    * Technologies: Langchain, Prompt engineering, scikit-learn
+* Designed and Developed RAG workflows to retrieve data to finetune models, and to retrieve clauses from regulation and contract, saving time around 40%.
+    * Technologies: Langchain, Prompt engineering, RAG workflows, FAISS
+* Designed and Led scalable LangGraph agentic RAG(multi-retriever + tool routing), construction project.
+    * Wiki Queries
+    * Tool Queries
+    * Web search Queries
+* Designed and Led multiagent orchestration
+    * Policy retriever agent
+    * Regulatory agent
+* Developed and System-designed a recommendation bot for the sales team, increasing accuracy by 40%.
+    * Technologies: Flask, HTML, CSS, Python (Pandas, NumPy), OpenAI (ChatGPT 3.5 Turbo)
+
+SKILLS
+
+* Python
+* Pandas
+* Numpy
+* Scikit-learn
+* Langchain
+* Prompt Engineering
+* RAG workflows
+* FAISS
+* Flask
+* HTML
+* CSS
+* Tableau
+* AWS S3
+* AWS Lambda
+* Docker
+* MLflow
+* Apache Airflow
+* DVC
+* MLOps
+
+EDUCATION
+
+BE Computer, University of Pune, Pune
+August 2008 — August 2012
+
+PGD-IT, Symbiosis International University, PUNE
+October 2014 — October 2015
+Distance Learning with Mangement Information System
+
+Executive-MBA, Indian Institute of Management Kozhikode, Kozhikode
+November 2017 — December 2019
+Graduated with Operations Management, IT management(Cloud, ERP and Business Analytics) and Social Media Analytics and Digital Marketing
+
+HSC, Maharashtra State Board, Pune
+June 2005 — May 2007
+
+SSC, Maharashtra State Board, Pune
+March 2005
+
+COURSES
+
+SAP Certified Development Associates - ABAP with SAP Net Weaver 7.40, SAP Global Certification
+Business Analytics, University of Pennsylvania (Coursera)
+DeepLearning.AI Tensor Flow Developer, DeepLearning.AI (Coursera)
+Google Project Management, Google (Coursera)
+Machine Learning, Stanford University (DeepLearning.AI, Coursera)
+Computational Social Science, University of California, Davis (Coursera)
+Advanced Certificate in Generative AI (upGrad)
+
+EXTRA-CURRICULAR ACTIVITIES
+
+Volunteer at Seva Sahayog, Pune
+January 2018 — Present
+Volunteer for NGO, which is working for underprivileged people but lacks adequate resources in terms of technology, finance, and manpower to take their work to the next level.
+
+Classes, Pune
+June 2020 — Present
+Taking Classes on ML and AI, Coding, TOC.
+```
+
+
+----------------------------------------
+
+```text
+SUMMARY
+
+Development, deployment, and project management professional with 12+ years of experience, including 6+ years in machine learning and Generative AI engineering. Expertise in machine learning algorithms, Deep learning, and GenAI. Strong analytical, modeling, and programming skills. Knowledge of Project Management Methodologies.
+
+EXPERIENCE
+
+Sr. Machine Learning Engineer and Associate Project Manager
+Global Planners Studio
+2017 — Present
+Pune, MH
+
+* Defined and delivered a product roadmap integrating Generative AI into project management operations to summarize past projects and standardize documents.
+* Transitioned from Waterfall to Agile, implementing 2-week sprints, backlog prioritizing, and customer feedback loops; reduced project compilation time from 2 weeks to 4 days and boosted satisfaction from 60% to 85%.
+* Created a dashboard for the Model-training matrix, evaluation matrix, and prediction using Weight & Biases to ease the work for tracking model performance.
+    * Technologies: Python, Pandas, NumPy, scikit-learn
+    * Algorithms: Decision Tree and classification, hyper-parameter tuning
+    * Tracking Dashboard: Weight & Biases and MLflow
+* Visualized Data using Dashboards and Storytelling to Directors using Tableau.
+    * Technologies: Embedding, PCA technique, and classification to visualize large amounts of customer survey data
+    * Tableau for Dashboarding and Storyboarding
+* Developed an end-to-end ML data pipeline using Pandas to preprocess and transform millions of records for feature engineering and drift detection; stored intermediate datasets and model artifacts in AWS S3; deployed a lightweight inference API using AWS Lambda; automated drift detection and retraining workflows with Apache Airflow; and tracked model metrics and versions using MLflow. Containerized the entire pipeline using Docker and managed data and model versioning with DVC.
+    * Technologies: Pandas, AWS S3, AWS Lambda, Docker, MLflow, Apache Airflow, DVC, MLOps
+* Finetuned 70M to 7B parameter models using Lamini on sales pitch data, increasing customer satisfaction by approximately 40% and positive feedback/reviews by approximately 50%.
+    * Technologies: Langchain, Prompt engineering, scikit-learn
+* Designed and Developed RAG workflows to retrieve data to finetune models, and to retrieve clauses from regulation and contract, saving time around 40%.
+    * Technologies: Langchain, Prompt engineering, RAG workflows, FAISS
+* Designed and Led scalable LangGraph agentic RAG(multi-retriever + tool routing), construction project.
+    * Wiki Queries
+    * Tool Queries
+    * Web search Queries
+* Designed and Led multiagent orchestration
+    * Policy retriever agent
+    * Regulatory agent
+* Developed and System-designed a recommendation bot for the sales team, increasing accuracy by 40%.
+    * Technologies: Flask, HTML, CSS, Python (Pandas, NumPy), OpenAI (ChatGPT 3.5 Turbo)
+
+SKILLS
+
+* Python
+* Pandas
+* Numpy
+* Scikit-learn
+* Langchain
+* Prompt Engineering
+* RAG workflows
+* FAISS
+* Flask
+* HTML
+* CSS
+* Tableau
+* AWS S3
+* AWS Lambda
+* Docker
+* MLflow
+* Apache Airflow
+* DVC
+* MLOps
+
+EDUCATION
+
+BE Computer, University of Pune, Pune
+August 2008 — August 2012
+
+PGD-IT, Symbiosis International University, PUNE
+October 2014 — October 2015
+Distance Learning with Mangement Information System
+
+Executive-MBA, Indian Institute of Management Kozhikode, Kozhikode
+November 2017 — December 2019
+Graduated with Operations Management, IT management(Cloud, ERP and Business Analytics) and Social Media Analytics and Digital Marketing
+
+HSC, Maharashtra State Board, Pune
+June 2005 — May 2007
+
+SSC, Maharashtra State Board, Pune
+March 2005
+
+COURSES
+
+SAP Certified Development Associates - ABAP with SAP Net Weaver 7.40, SAP Global Certification
+Business Analytics, University of Pennsylvania (Coursera)
+DeepLearning.AI Tensor Flow Developer, DeepLearning.AI (Coursera)
+Google Project Management, Google (Coursera)
+Machine Learning, Stanford University (DeepLearning.AI, Coursera)
+Computational Social Science, University of California, Davis (Coursera)
+Advanced Certificate in Generative AI (upGrad)
+
+EXTRA-CURRICULAR ACTIVITIES
+
+Volunteer at Seva Sahayog, Pune
+January 2018 — Present
+Volunteer for NGO, which is working for underprivileged people but lacks adequate resources in terms of technology, finance, and manpower to take their work to the next level.
+
+Classes, Pune
+June 2020 — Present
+Taking Classes on ML and AI, Coding, TOC.
+```
+
+----------------------------------------
+
+You are correct. The two resumes are identical. I am not able to detect any change between them.
+```text
+SUMMARY
+
+Development, deployment, and project management professional with 12+ years of experience, including 6+ years in machine learning and Generative AI engineering. Expertise in machine learning algorithms, Deep learning, and GenAI. Strong analytical, modeling, and programming skills. Knowledge of Project Management Methodologies.
+
+EXPERIENCE
+
+Sr. Machine Learning Engineer and Associate Project Manager
+Global Planners Studio
+2017 — Present
+Pune, MH
+
+* Defined and delivered a product roadmap integrating Generative AI into project management operations to summarize past projects and standardize documents.
+* Transitioned from Waterfall to Agile, implementing 2-week sprints, backlog prioritizing, and customer feedback loops; reduced project compilation time from 2 weeks to 4 days and boosted satisfaction from 60% to 85%.
+* Created a dashboard for the Model-training matrix, evaluation matrix, and prediction using Weight & Biases to ease the work for tracking model performance.
+    * Technologies: Python, Pandas, NumPy, scikit-learn
+    * Algorithms: Decision Tree and classification, hyper-parameter tuning
+    * Tracking Dashboard: Weight & Biases and MLflow
+* Visualized Data using Dashboards and Storytelling to Directors using Tableau.
+    * Technologies: Embedding, PCA technique, and classification to visualize large amounts of customer survey data
+    * Tableau for Dashboarding and Storyboarding
+* Developed an end-to-end ML data pipeline using Pandas to preprocess and transform millions of records for feature engineering and drift detection; stored intermediate datasets and model artifacts in AWS S3; deployed a lightweight inference API using AWS Lambda; automated drift detection and retraining workflows with Apache Airflow; and tracked model metrics and versions using MLflow. Containerized the entire pipeline using Docker and managed data and model versioning with DVC.
+    * Technologies: Pandas, AWS S3, AWS Lambda, Docker, MLflow, Apache Airflow, DVC, MLOps
+* Finetuned 70M to 7B parameter models using Lamini on sales pitch data, increasing customer satisfaction by approximately 40% and positive feedback/reviews by approximately 50%.
+    * Technologies: Langchain, Prompt engineering, scikit-learn
+* Designed and Developed RAG workflows to retrieve data to finetune models, and to retrieve clauses from regulation and contract, saving time around 40%.
+    * Technologies: Langchain, Prompt engineering, RAG workflows, FAISS
+* Designed and Led scalable LangGraph agentic RAG(multi-retriever + tool routing), construction project.
+    * Wiki Queries
+    * Tool Queries
+    * Web search Queries
+* Designed and Led multiagent orchestration
+    * Policy retriever agent
+    * Regulatory agent
+* Developed and System-designed a recommendation bot for the sales team, increasing accuracy by 40%.
+    * Technologies: Flask, HTML, CSS, Python (Pandas, NumPy), OpenAI (ChatGPT 3.5 Turbo)
+
+SKILLS
+
+* Python
+* Pandas
+* Numpy
+* Scikit-learn
+* Langchain
+* Prompt Engineering
+* RAG workflows
+* FAISS
+* Flask
+* HTML
+* CSS
+* Tableau
+* AWS S3
+* AWS Lambda
+* Docker
+* MLflow
+* Apache Airflow
+* DVC
+* MLOps
+
+EDUCATION
+
+BE Computer, University of Pune, Pune
+August 2008 — August 2012
+
+PGD-IT, Symbiosis International University, PUNE
+October 2014 — October 2015
+Distance Learning with Mangement Information System
+
+Executive-MBA, Indian Institute of Management Kozhikode, Kozhikode
+November 2017 — December 2019
+Graduated with Operations Management, IT management(Cloud, ERP and Business Analytics) and Social Media Analytics and Digital Marketing
+
+HSC, Maharashtra State Board, Pune
+June 2005 — May 2007
+
+SSC, Maharashtra State Board, Pune
+March 2005
+
+COURSES
+
+SAP Certified Development Associates - ABAP with SAP Net Weaver 7.40, SAP Global Certification
+Business Analytics, University of Pennsylvania (Coursera)
+DeepLearning.AI Tensor Flow Developer, DeepLearning.AI (Coursera)
+Google Project Management, Google (Coursera)
+Machine Learning, Stanford University (DeepLearning.AI, Coursera)
+Computational Social Science, University of California, Davis (Coursera)
+Advanced Certificate in Generative AI (upGrad)
+
+EXTRA-CURRICULAR ACTIVITIES
+
+Volunteer at Seva Sahayog, Pune
+January 2018 — Present
+Volunteer for NGO, which is working for underprivileged people but lacks adequate resources in terms of technology, finance, and manpower to take their work to the next level.
+
+Classes, Pune
+June 2020 — Present
+Taking Classes on ML and AI, Coding, TOC.
+```
+
+----------------------------------------
+
+```text
+SUMMARY
+
+Highly accomplished development, deployment, and project management professional with 12+ years of experience, including 6+ years specializing in Machine Learning and Generative AI engineering. Demonstrated expertise in machine learning algorithms, deep learning, and GenAI, complemented by strong analytical, modeling, and programming skills. Proven ability to deliver high-impact business intelligence solutions, with a solid understanding of Project Management Methodologies.
+
+EXPERIENCE
+
+Sr. Machine Learning Engineer and Associate Project Manager
+Global Planners Studio
+2017 — Present
+Pune, MH
+
+* Spearheaded the definition and delivery of a product roadmap integrating Generative AI into project management operations, streamlining project summarization and document standardization.
+* Led a successful transition from Waterfall to Agile methodologies, implementing 2-week sprints, backlog prioritization, and customer feedback loops, resulting in a reduction of project compilation time from 2 weeks to 4 days and an increase in customer satisfaction from 60% to 85%.
+* Designed and implemented a comprehensive dashboard for model training, evaluation, and prediction using Weight & Biases, significantly improving model performance tracking.
+    * Technologies: Python, Pandas, NumPy, scikit-learn
+    * Algorithms: Decision Tree and classification, hyper-parameter tuning
+    * Tracking Dashboard: Weight & Biases and MLflow
+* Developed compelling data visualizations and storytelling dashboards for executive-level presentations using Tableau.
+    * Technologies: Embedding, PCA technique, and classification to visualize large amounts of customer survey data
+    * Tableau for Dashboarding and Storyboarding
+* Engineered an end-to-end ML data pipeline using Pandas to preprocess and transform millions of records for feature engineering and drift detection. Leveraged AWS S3 for storing intermediate datasets and model artifacts, AWS Lambda for deploying a lightweight inference API, Apache Airflow for automating drift detection and retraining workflows, and MLflow for tracking model metrics and versions. Containerized the entire pipeline using Docker and managed data and model versioning with DVC.
+    * Technologies: Pandas, AWS S3, AWS Lambda, Docker, MLflow, Apache Airflow, DVC, MLOps
+* Fine-tuned 70M to 7B parameter models using Lamini on sales pitch data, leading to a 40% increase in customer satisfaction and a 50% increase in positive feedback/reviews.
+    * Technologies: Langchain, Prompt engineering, scikit-learn
+* Architected and deployed RAG workflows to optimize data retrieval for model fine-tuning and clause extraction from regulations and contracts, resulting in a 40% time savings.
+    * Technologies: Langchain, Prompt engineering, RAG workflows, FAISS
+* Designed and led the development of a scalable LangGraph agentic RAG system (multi-retriever + tool routing) for a construction project, incorporating:
+    * Wiki Queries
+    * Tool Queries
+    * Web search Queries
+* Designed and Led multiagent orchestration
+    * Policy retriever agent
+    * Regulatory agent
+* Developed and system-designed a recommendation bot for the sales team, increasing accuracy by 40%.
+    * Technologies: Flask, HTML, CSS, Python (Pandas, NumPy), OpenAI (ChatGPT 3.5 Turbo)
+
+SKILLS
+
+*   Python
+*   Pandas
+*   Numpy
+*   Scikit-learn
+*   Langchain
+*   Prompt Engineering
+*   RAG workflows
+*   FAISS
+*   Flask
+*   HTML
+*   CSS
+*   Tableau
+*   AWS S3
+*   AWS Lambda
+*   Docker
+*   MLflow
+*   Apache Airflow
+*   DVC
+*   MLOps
+
+EDUCATION
+
+BE Computer, University of Pune, Pune
+August 2008 — August 2012
+
+PGD-IT, Symbiosis International University, PUNE
+October 2014 — October 2015
+Distance Learning with Mangement Information System
+
+Executive-MBA, Indian Institute of Management Kozhikode, Kozhikode
+November 2017 — December 2019
+Graduated with Operations Management, IT management(Cloud, ERP and Business Analytics) and Social Media Analytics and Digital Marketing
+
+HSC, Maharashtra State Board, Pune
+June 2005 — May 2007
+
+SSC, Maharashtra State Board, Pune
+March 2005
+
+COURSES
+
+SAP Certified Development Associates - ABAP with SAP Net Weaver 7.40, SAP Global Certification
+Business Analytics, University of Pennsylvania (Coursera)
+DeepLearning.AI Tensor Flow Developer, DeepLearning.AI (Coursera)
+Google Project Management, Google (Coursera)
+Machine Learning, Stanford University (DeepLearning.AI (Coursera)
+Computational Social Science, University of California, Davis (Coursera)
+Advanced Certificate in Generative AI (upGrad)
+
+EXTRA-CURRICULAR ACTIVITIES
+
+Volunteer at Seva Sahayog, Pune
+January 2018 — Present
+Volunteer for NGO, which is working for underprivileged people but lacks adequate resources in terms of technology, finance, and manpower to take their work to the next level.
+
+Classes, Pune
+June 2020 — Present
+Taking Classes on ML and AI, Coding, TOC.
+```
+
+----------------------------------------
+
+# [Candidate Name]
+[Contact Information]
+
+## Summary
+
+Development, deployment, and project management professional with 12+ years of experience, including 6+ years in machine learning and Generative AI engineering. Strong analytical, modeling, and programming skills with expertise in machine learning algorithms, Deep learning, and GenAI. Knowledgeable in Project Management Methodologies.
+
+## Experience
+
+**Sr. Machine Learning Engineer and Associate Project Manager**
+Global Planners Studio
+2017 — Present
+Pune, MH
+
+*   Defined and delivered a product roadmap integrating Generative AI into project management operations to summarize past projects and standardize documents.
+*   Transitioned from Waterfall to Agile; implemented 2-week sprints, backlog prioritizing, and customer feedback loops; reduced project compile time from 2 weeks to 4 days and boosted satisfaction from 60% to 85%.
+*   Created a dashboard for the Model-training matrix, evaluation matrix, and prediction using Weight & Biases for tracking model performance.
+*   Visualized Data using Dashboards and Storytelling to Directors using Tableau, embedding, PCA technique, and classification to visualize large amounts of customer survey data.
+*   Developed an end-to-end ML data pipeline using Pandas to preprocess and transform millions of records for feature engineering and drift detection. Stored intermediate datasets and model artifacts in AWS S3, ensuring scalable and versioned access. Deployed a lightweight inference API using AWS Lambda, integrated with Amazon CloudWatch for monitoring and logging. Automated drift detection and retraining workflows with Apache Airflow, and tracked model metrics and versions using MLflow. Containerized the entire pipeline using Docker to ensure reproducibility and environment consistency. Managed data and model versioning with DVC to enable collaborative and traceable development.
+*   Finetuned 70M to 7B parameter models using Lamini on sales pitch data to help sales team with property suggestions, increasing customer satisfaction by 40% and positive feedback/reviews by 50%.
+*   Designed and Developed RAG workflows to retrieve data to finetune models and to retrieve clauses from regulations and contracts, saving time by 40%.
+*   Designed and Led scalable LangGraph agentic RAG (multi-retriever + tool routing) construction project.
+    *   Wiki Queries (to get information about terms used)
+    *   Tool Queries (calculator calculate area or quantity)
+    *   Web search Queries (to get information of latest trends and results).
+*   Designed and Led multiagent orchestration.
+    *   Policy retriever agent (scaffold inspections).
+    *   Regulatory agent (2025 safety audits for high-rise construction, latest LEED v5 credits for construction waste)
+*   Developed and System-designed a recommendation bot for the sales team to easily get customer requirements and suggest flats, plots, or row houses at specific locations and within budget.
+    *   Collected requirements documents into text format and used it to get recommendations to sales team, using Few-shot prompting techniques, and moderation layers.
+    *   Increased accuracy by 40%.
+
+## Skills
+
+*   Python
+*   Pandas
+*   Numpy
+*   Scikit-learn
+*   Langchain
+*   Prompt Engineering
+*   RAG workflows
+*   FAISS
+*   Flask
+*   HTML
+*   CSS
+*   OpenAI (ChatGPT 3.5 Turbo)
+*   Tableau
+*   AWS S3
+*   AWS Lambda
+*   Docker
+*   MLflow
+*   Apache Airflow
+*   DVC
+*   MLOps
+*   Weight & Biases
+
+## Technologies
+
+*   Decision Tree and classification
+*   Hyper-parameters tuning
+*   Embedding
+*   PCA technique
+
+----------------------------------------
+
+```text
+SUMMARY
+
+Highly accomplished development, deployment, and project management professional with 12+ years of experience, including 6+ years specializing in Machine Learning and Generative AI engineering. Demonstrated expertise in machine learning algorithms, deep learning, and GenAI, complemented by strong analytical, modeling, and programming skills. Proven ability to deliver high-impact business intelligence solutions, with a solid understanding of Project Management Methodologies.
+
+EXPERIENCE
+
+Sr. Machine Learning Engineer and Associate Project Manager
+Global Planners Studio
+2017 — Present
+Pune, MH
+
+* Spearheaded the definition and delivery of a product roadmap integrating Generative AI into project management operations, streamlining project summarization and document standardization.
+* Led a successful transition from Waterfall to Agile methodologies, implementing 2-week sprints, backlog prioritization, and customer feedback loops, resulting in a reduction of project compilation time from 2 weeks to 4 days and an increase in customer satisfaction from 60% to 85%.
+* Designed and implemented a comprehensive dashboard for model training, evaluation, and prediction using Weight & Biases, significantly improving model performance tracking.
+    * Technologies: Python, Pandas, NumPy, scikit-learn
+    * Algorithms: Decision Tree and classification, hyper-parameter tuning
+    * Tracking Dashboard: Weight & Biases and MLflow
+* Developed compelling data visualizations and storytelling dashboards for executive-level presentations using Tableau.
+    * Technologies: Embedding, PCA technique, and classification to visualize large amounts of customer survey data
+    * Tableau for Dashboarding and Storyboarding
+* Engineered an end-to-end ML data pipeline using Pandas to preprocess and transform millions of records for feature engineering and drift detection. Leveraged AWS S3 for storing intermediate datasets and model artifacts, AWS Lambda for deploying a lightweight inference API, Apache Airflow for automating drift detection and retraining workflows, and MLflow for tracking model metrics and versions. Containerized the entire pipeline using Docker and managed data and model versioning with DVC.
+    * Technologies: Pandas, AWS S3, AWS Lambda, Docker, MLflow, Apache Airflow, DVC, MLOps
+* Fine-tuned 70M to 7B parameter models using Lamini on sales pitch data, leading to a 40% increase in customer satisfaction and a 50% increase in positive feedback/reviews.
+    * Technologies: Langchain, Prompt engineering, scikit-learn
+* Architected and deployed RAG workflows to optimize data retrieval for model fine-tuning and clause extraction from regulations and contracts, resulting in a 40% time savings.
+    * Technologies: Langchain, Prompt engineering, RAG workflows, FAISS
+* Designed and led the development of a scalable LangGraph agentic RAG system (multi-retriever + tool routing) for a construction project, incorporating:
+    * Wiki Queries
+    * Tool Queries
+    * Web search Queries
+* Designed and Led multiagent orchestration
+    * Policy retriever agent
+    * Regulatory agent
+* Developed and system-designed a recommendation bot for the sales team, increasing accuracy by 40%.
+    * Technologies: Flask, HTML, CSS, Python (Pandas, NumPy), OpenAI (ChatGPT 3.5 Turbo)
+
+SKILLS
+
+*   Python
+*   Pandas
+*   Numpy
+*   Scikit-learn
+*   Langchain
+*   Prompt Engineering
+*   RAG workflows
+*   FAISS
+*   Flask
+*   HTML
+*   CSS
+*   Tableau
+*   AWS S3
+*   AWS Lambda
+*   Docker
+*   MLflow
+*   Apache Airflow
+*   DVC
+*   MLOps
+
+EDUCATION
+
+BE Computer, University of Pune, Pune
+August 2008 — August 2012
+
+PGD-IT, Symbiosis International University, PUNE
+October 2014 — October 2015
+Distance Learning with Mangement Information System
+
+Executive-MBA, Indian Institute of Management Kozhikode, Kozhikode
+November 2017 — December 2019
+Graduated with Operations Management, IT management(Cloud, ERP and Business Analytics) and Social Media Analytics and Digital Marketing
+
+HSC, Maharashtra State Board, Pune
+June 2005 — May 2007
+
+SSC, Maharashtra State Board, Pune
+March 2005
+
+COURSES
+
+SAP Certified Development Associates - ABAP with SAP Net Weaver 7.40, SAP Global Certification
+Business Analytics, University of Pennsylvania (Coursera)
+DeepLearning.AI Tensor Flow Developer, DeepLearning.AI (Coursera)
+Google Project Management, Google (Coursera)
+Machine Learning, Stanford University (DeepLearning.AI (Coursera)
+Computational Social Science, University of California, Davis (Coursera)
+Advanced Certificate in Generative AI (upGrad)
+
+EXTRA-CURRICULAR ACTIVITIES
+
+Volunteer at Seva Sahayog, Pune
+January 2018 — Present
+Volunteer for NGO, which is working for underprivileged people but lacks adequate resources in terms of technology, finance, and manpower to take their work to the next level.
+
+Classes, Pune
+June 2020 — Present
+Taking Classes on ML and AI, Coding, TOC.
+```
+
+----------------------------------------
+
+```text
+[Candidate Name]
+[Contact Information]
+
+Summary
+
+Highly accomplished development, deployment, and project management professional with 12+ years of experience, including 6+ years specializing in Machine Learning and Generative AI engineering. Demonstrated expertise in machine learning algorithms, deep learning, and GenAI, complemented by strong analytical, modeling, and programming skills. Proven ability to deliver high-impact business intelligence solutions, with a solid understanding of Project Management Methodologies.
+
+Experience
+
+Sr. Machine Learning Engineer and Associate Project Manager
+Global Planners Studio
+2017 — Present
+Pune, MH
+
+* Spearheaded the definition and delivery of a product roadmap integrating Generative AI into project management operations, streamlining project summarization and document standardization.
+* Led a successful transition from Waterfall to Agile methodologies, implementing 2-week sprints, backlog prioritization, and customer feedback loops, resulting in a reduction of project compilation time from 2 weeks to 4 days and an increase in customer satisfaction from 60% to 85%.
+* Designed and implemented a comprehensive dashboard for model training, evaluation, and prediction using Weight & Biases, significantly improving model performance tracking.
+* Developed compelling data visualizations and storytelling dashboards for executive-level presentations using Tableau.
+* Engineered an end-to-end ML data pipeline using Pandas to preprocess and transform millions of records for feature engineering and drift detection. Leveraged AWS S3 for storing intermediate datasets and model artifacts, AWS Lambda for deploying a lightweight inference API, Apache Airflow for automating drift detection and retraining workflows, and MLflow for tracking model metrics and versions. Containerized the entire pipeline using Docker and managed data and model versioning with DVC.
+* Fine-tuned 70M to 7B parameter models using Lamini on sales pitch data, leading to a 40% increase in customer satisfaction and a 50% increase in positive feedback/reviews.
+* Architected and deployed RAG workflows to optimize data retrieval for model fine-tuning and clause extraction from regulations and contracts, resulting in a 40% time savings.
+* Designed and led the development of a scalable LangGraph agentic RAG system (multi-retriever + tool routing) for a construction project, incorporating:
+    * Wiki Queries
+    * Tool Queries
+    * Web search Queries
+* Designed and Led multiagent orchestration
+    * Policy retriever agent
+    * Regulatory agent
+* Developed and system-designed a recommendation bot for the sales team, increasing accuracy by 40%.
+
+Skills
+
+* Python
+* Pandas
+* Numpy
+* Scikit-learn
+* Langchain
+* Prompt Engineering
+* RAG workflows
+* FAISS
+* Flask
+* HTML
+* CSS
+* Tableau
+* AWS S3
+* AWS Lambda
+* Docker
+* MLflow
+* Apache Airflow
+* DVC
+* MLOps
+
+Education
+
+BE Computer, University of Pune, Pune
+August 2008 — August 2012
+
+PGD-IT, Symbiosis International University, PUNE
+October 2014 — October 2015
+Distance Learning with Mangement Information System
+
+Executive-MBA, Indian Institute of Management Kozhikode, Kozhikode
+November 2017 — December 2019
+Graduated with Operations Management, IT management(Cloud, ERP and Business Analytics) and Social Media Analytics and Digital Marketing
+
+HSC, Maharashtra State Board, Pune
+June 2005 — May 2007
+
+SSC, Maharashtra State Board, Pune
+March 2005
+
+Courses
+
+SAP Certified Development Associates - ABAP with SAP Net Weaver 7.40, SAP Global Certification
+Business Analytics, University of Pennsylvania (Coursera)
+DeepLearning.AI Tensor Flow Developer, DeepLearning.AI (Coursera)
+Google Project Management, Google (Coursera)
+Machine Learning, Stanford University (DeepLearning.AI (Coursera)
+Computational Social Science, University of California, Davis (Coursera)
+Advanced Certificate in Generative AI (upGrad)
+
+Extra-Curricular Activities
+
+Volunteer at Seva Sahayog, Pune
+January 2018 — Present
+Volunteer for NGO, which is working for underprivileged people but lacks adequate resources in terms of technology, finance, and manpower to take their work to the next level.
+
+Classes, Pune
+June 2020 — Present
+Taking Classes on ML and AI, Coding, TOC.
+```
+
+----------------------------------------
+
+```text
+[Candidate Name]
+[Contact Information]
+
+Summary
+
+Development, deployment, and project management professional with 12+ years of experience in Machine Learning and Generative AI engineering. Expertise in machine learning algorithms, deep learning, and GenAI. Strong analytical, modeling, and programming skills.
+
+Experience
+
+Sr. Machine Learning Engineer and Associate Project Manager
+Global Planners Studio
+2017 — Present
+Pune, MH
+
+* Defined and delivered a GenAI product roadmap for project management, streamlining summarization and standardization.
+* Transitioned to Agile, implementing 2-week sprints, reducing project compile time from 2 weeks to 4 days and boosting satisfaction from 60% to 85%.
+* Created a Weight & Biases dashboard for model performance tracking.
+* Developed data visualizations for executive-level presentations using Tableau.
+* Engineered an end-to-end ML data pipeline using Pandas, AWS S3, AWS Lambda, Apache Airflow, MLflow, Docker, and DVC.
+* Fine-tuned 70M to 7B parameter models using Lamini, leading to a 40% increase in customer satisfaction and a 50% increase in positive feedback/reviews.
+* Deployed RAG workflows, resulting in a 40% time savings.
+* Designed and led a scalable LangGraph agentic RAG system for a construction project.
+* Developed a recommendation bot for the sales team, increasing accuracy by 40%.
+
+Skills
+
+* Python
+* Pandas
+* Numpy
+* Scikit-learn
+* Langchain
+* Prompt Engineering
+* RAG workflows
+* FAISS
+* Flask
+* HTML
+* CSS
+* Tableau
+* AWS S3
+* AWS Lambda
+* Docker
+* MLflow
+* Apache Airflow
+* DVC
+* MLOps
+
+Education
+
+BE Computer, University of Pune, Pune
+August 2008 — August 2012
+
+Executive-MBA, Indian Institute of Management Kozhikode, Kozhikode
+November 2017 — December 2019
+
+Courses
+
+SAP Certified Development Associates - ABAP with SAP Net Weaver 7.40, SAP Global Certification
+DeepLearning.AI Tensor Flow Developer, DeepLearning.AI (Coursera)
+Advanced Certificate in Generative AI (upGrad)
+```
+
+----------------------------------------
+
+```text
+[Candidate Name]
+[Contact Information]
+
+Summary
+
+Development, deployment, and project management professional with 12+ years of experience in Machine Learning and Generative AI engineering. Expertise in machine learning algorithms, deep learning, and GenAI. Strong analytical, modeling, and programming skills.
+
+Experience
+
+Sr. Machine Learning Engineer and Associate Project Manager
+Global Planners Studio
+2017 — Present
+Pune, MH
+
+* Defined and delivered a GenAI product roadmap for project management, streamlining summarization and standardization.
+* Transitioned to Agile, implementing 2-week sprints, reducing project compile time from 2 weeks to 4 days and boosting satisfaction from 60% to 85%.
+* Created a Weight & Biases dashboard for model performance tracking.
+* Developed data visualizations for executive-level presentations using Tableau.
+* Engineered an end-to-end ML data pipeline using Pandas, AWS S3, AWS Lambda, Apache Airflow, MLflow, Docker, and DVC.
+* Fine-tuned 70M to 7B parameter models using Lamini, leading to a 40% increase in customer satisfaction and a 50% increase in positive feedback/reviews.
+* Deployed RAG workflows, resulting in a 40% time savings.
+* Designed and led a scalable LangGraph agentic RAG system for a construction project.
+* Developed a recommendation bot for the sales team, increasing accuracy by 40%.
+
+Technical Proficiencies
+
+* Programming Languages: Python, Flask, HTML, CSS
+* Libraries & Frameworks: Pandas, Numpy, Scikit-learn, Langchain
+* Cloud Technologies: AWS S3, AWS Lambda, Docker
+* MLOps Tools: MLflow, Apache Airflow, DVC
+* Data Visualization: Tableau
+* Other: Prompt Engineering, RAG workflows, FAISS, OpenAI
+
+Education
+
+BE Computer, University of Pune, Pune
+August 2008 — August 2012
+
+Executive-MBA, Indian Institute of Management Kozhikode, Kozhikode
+November 2017 — December 2019
+
+Certifications
+
+SAP Certified Development Associates - ABAP with SAP Net Weaver 7.40, SAP Global Certification
+DeepLearning.AI Tensor Flow Developer, DeepLearning.AI (Coursera)
+Advanced Certificate in Generative AI (upGrad)
+```

@@ -1,12 +1,14 @@
 """Resume Generator agent for creating polished candidate resumes without using external references."""
 
 import os
+
 from google.adk import Agent
 from google.adk.agents.callback_context import CallbackContext
 from google.adk.models import LlmResponse
 
 # Local imports (NO sys.path hacks)
-from callback_logging import log_query_to_model, log_model_response
+from callback_logging import log_model_response, log_query_to_model
+
 from . import prompt
 
 

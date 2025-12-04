@@ -1,17 +1,18 @@
 """Reviser agent for correcting inaccuracies based on verified findings."""
 
 import os
+import sys
+
 from google.adk import Agent
 from google.adk.agents.callback_context import CallbackContext
 from google.adk.models import LlmResponse
 
-import sys
 sys.path.append("..")
-from callback_logging import log_query_to_model, log_model_response
+from callback_logging import log_model_response, log_query_to_model
 
 from . import prompt
 
-_END_OF_EDIT_MARK = '---END-OF-EDIT---'
+_END_OF_EDIT_MARK = "---END-OF-EDIT---"
 
 
 def _remove_end_of_edit_mark(
@@ -30,7 +31,7 @@ def _remove_end_of_edit_mark(
 
 reviser_agent = Agent(
     model=os.getenv("MODEL"),
-    name='reviser_agent',
+    name="reviser_agent",
     instruction=prompt.REVISER_PROMPT,
     before_model_callback=log_query_to_model,
     after_model_callback=_remove_end_of_edit_mark,
